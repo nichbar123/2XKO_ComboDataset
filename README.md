@@ -1,9 +1,9 @@
-# 2XKO Combo Dataset -- Backend Extraction & Cleaning
+m# 2XKO Combo Dataset -- Backend Extraction & Cleaning
 
 ## Overview
 
 This project builds a structured dataset of community-submitted **2XKO
-combos** sourced directly from the live production database powering
+combos** souru8ced directly from the live production database powering
 [2xkombo.gg](https://2xkombo.gg/).
 
 Instead of scraping rendered HTML, this project extracts data from the
